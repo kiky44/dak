@@ -153,4 +153,32 @@
         "expirydate": "02-10-2025",
         "Allowoffline": false
     },
+     {
+        "device_id": "7915c6b161dc1ecc",
+        "username": "user60",
+        "password": "12345",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
+    },
+      {
+        "device_id": "7c0420e99186a013",
+        "username": "user61",
+        "password": "12345",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
+    },
+     {
+        "device_id": "49565e1ea3bb00a1",
+        "username": "user62",
+        "password": "12345",
+        "expirydate": "13-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "52f41f38d69bbdab",
+        "username": "user63",
+        "password": "12345",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
 ]
