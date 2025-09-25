@@ -7,13 +7,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "f25268b785f13918",
         "username": "user12",
         "password": "12345",
@@ -116,6 +109,48 @@
         "username": "user29",
         "password": "12345",
         "expirydate": "22-10-2025",
+        "Allowoffline": false
+    },
+     {
+        "device_id": "ee328fe92a9d60aa",
+        "username": "user50",
+        "password": "12345",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
+      {
+        "device_id": "acd7dffbf10e8a8f",
+        "username": "user51",
+        "password": "12345",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
+       {
+        "device_id": "f162ff913e4229ac",
+        "username": "user52",
+        "password": "12345",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
+     {
+        "device_id": "42cc226f249e06be",
+        "username": "user53",
+        "password": "12345",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
+     {
+        "device_id": "5a4f7be4398a3d16",
+        "username": "user54",
+        "password": "12345",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
+       {
+        "device_id": "00e2773fc380ca6b",
+        "username": "user55",
+        "password": "12345",
+        "expirydate": "02-10-2025",
         "Allowoffline": false
     },
 ]
