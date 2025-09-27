@@ -188,4 +188,11 @@
         "expirydate": "26-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "247f160b1e9c53ab",
+        "username": "user65",
+        "password": "12345",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
 ]
