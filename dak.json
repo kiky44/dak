@@ -13,6 +13,13 @@
         "expirydate": "30-10-2030",
         "Allowoffline": false
     },
+{
+        "device_id": "e907e51093718776",
+        "username": "user102",
+        "password": "12345",
+        "expirydate": "30-10-2030",
+        "Allowoffline": false
+    },
     {
         "device_id": "f25268b785f13918",
         "username": "user12",
