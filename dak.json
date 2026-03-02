@@ -1,5 +1,12 @@
 [
     {
+        "device_id": "0f2c9b1d44ab3b03",
+        "username": "user99",
+        "password": "12345",
+        "expirydate": "30-10-2030",
+        "Allowoffline": false
+    },
+    {
         "device_id": "4c805e4a61ab1b9a",
         "username": "user100",
         "password": "12345",
