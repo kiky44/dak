@@ -1,4 +1,12 @@
 [
+    
+    {
+        "device_id": "0e9e9a983afa5377",
+        "username": "usrtlt",
+        "password": "12345",
+        "expirydate": "30-10-2030",
+        "Allowoffline": false
+    },
     {
         "device_id": "f761741d82769f99",
         "username": "user1",
