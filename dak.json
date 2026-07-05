@@ -383,12 +383,5 @@
         "password": "12345",
         "expirydate": "21-05-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "123",
-        "username": "coba",
-        "password": "1",
-        "expirydate": "04-08-2026",
-        "Allowoffline": false
     }
 ]
