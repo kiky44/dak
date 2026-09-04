@@ -14,13 +14,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "68d6d538286e05a0",
-        "username": "usrtestbaru",
-        "password": "12345",
-        "expirydate": "13-05-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "0e9e9a983afa5377",
         "username": "usrtlt",
         "password": "12345",
@@ -30,13 +23,6 @@
     {
         "device_id": "f761741d82769f99",
         "username": "user1",
-        "password": "12345",
-        "expirydate": "30-10-2030",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9d883c0275b61483",
-        "username": "test",
         "password": "12345",
         "expirydate": "30-10-2030",
         "Allowoffline": false
@@ -385,24 +371,10 @@
         "Allowoffline": false
     },
     {
-        "device_id": "1",
-        "username": "testmi",
-        "password": "12345",
-        "expirydate": "10-09-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "85e6e270b692f0e6",
         "username": "user190",
         "password": "12345",
         "expirydate": "30-10-2030",
         "Allowoffline": false
     },
-    {
-        "device_id": "3ce88cabfee0a3e3",
-        "username": "testls",
-        "password": "12345",
-        "expirydate": "04-10-2026",
-        "Allowoffline": false
-    }
 ]
