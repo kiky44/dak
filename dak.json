@@ -377,4 +377,11 @@
         "expirydate": "30-10-2030",
         "Allowoffline": false
     },
+    {
+        "device_id": "cf3f8ccebbb8bd41",
+        "username": "testgpslsposed",
+        "password": "12345",
+        "expirydate": "04-09-2030",
+        "Allowoffline": false
+    }
 ]
