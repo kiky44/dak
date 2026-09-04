@@ -383,5 +383,12 @@
         "password": "12345",
         "expirydate": "04-09-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a02955523a4f3f79",
+        "username": "testsmaliredmi5a",
+        "password": "12345",
+        "expirydate": "05-09-2027",
+        "Allowoffline": false
     }
 ]
